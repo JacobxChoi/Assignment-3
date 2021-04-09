@@ -1,2 +1,3 @@
 # Assignments
-CS 171 assignments
+
+CS 171 Assignment 3
